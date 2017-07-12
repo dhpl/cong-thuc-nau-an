@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Công Thức Nấu Ăn</string>
+    <string-array name="nav_item">
+        <item>Công Thức Nấu Ăn</item>
+        <item>Bộ sưu tập</item>
+    </string-array>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+</resources>
